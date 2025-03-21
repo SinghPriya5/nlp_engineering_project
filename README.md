@@ -54,29 +54,29 @@
 
 ## Project Workflow  
 
-### 📌 Data Preprocessing  
+###  Data Preprocessing  
 🟢 **Lowercasing & Punctuation Removal**  
 🟢 **Tokenization & Stopword Removal**  
 🟢 **Lemmatization for Better Word Representation**  
 
-### 📌 Model Training  
+### Model Training  
 💡 **ML Models**: Logistic Regression, SVM, Random Forest  
 💡 **DL Models**: LSTM, BiLSTM, CNN+LSTM, BERT  
 💡 **Embeddings**: TF-IDF, Word2Vec, GloVe, BERT  
 
-### 📌 Model Evaluation  
+###  Model Evaluation  
 📈 **Accuracy**  
 📈 **Precision & Recall**  
 📈 **Confusion Matrix**  
 📈 **ROC-AUC Curve**  
 
-### 📌 Model Selection  
+### Model Selection  
 ✔ **Final Model**: BiLSTM + Word2Vec gave the best accuracy (~94%).  
 
-### 📌 Deployment  
-✅ **Flask Web App**  
+###  Deployment  
+✅ **Streamlit Deployment**  
 ✅ **REST API Integration**  
-✅ **Deployed on Render** – [Live App Link](https://github.com/SinghPriya5/Sarcasm_Detection/issues)  
+✅ **Deployed on Render** – [Live App Link](https://nlp-engineering-project.onrender.com)  
 
 ---
 
